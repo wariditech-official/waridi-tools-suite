@@ -14,7 +14,8 @@ Waridi Tech is a digital technology company specializing in software development
   
 
 ## Website
-https://wariditech.com/tools/our-tools.html
+Visit Waridi Tech to explore our online productivity tools and custom software solutions: 
+https://wariditech.com/
 
 ## Organization
 https://github.com/wariditech-official
