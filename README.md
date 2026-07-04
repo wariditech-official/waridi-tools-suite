@@ -11,6 +11,7 @@ Waridi Tech is a digital technology company specializing in software development
 - Video tools
 - Audio tools
 - Document processing tools
+  
 
 ## Website
 https://wariditech.com/tools/our-tools.html
