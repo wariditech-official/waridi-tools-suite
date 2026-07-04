@@ -17,11 +17,17 @@ Waridi Tech is a digital technology company specializing in software development
 Visit Waridi Tech to explore our online productivity tools and custom software solutions: 
 https://wariditech.com/
 
+## Articles
+https://dev.to/waridi-tech/introduction-to-waridi-tech-modern-software-development-saas-digital-solutions
+
 ## Organization
 https://github.com/wariditech-official
 
 ## Contact
 info@wariditech.com
+
+## Blog
+https://waridiblog.com/
 
 ## Location
 Moshi, Kilimanjaro, Tanzania
